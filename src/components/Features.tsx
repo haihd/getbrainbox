@@ -46,8 +46,8 @@ const Features: React.FC = () => {
       description: "Ask questions and get intelligent answers without leaving your current tab."
     },
     {
-      icon: <Code className="h-6 w-6" />,
-      title: "Code Helper",
+      icon: <Sparkles className="h-6 w-6" />,
+      title: "Helpful Translate",
       description: "Generate code snippets, explain functions, and debug issues with our AI coding assistant."
     },
     {
@@ -57,7 +57,7 @@ const Features: React.FC = () => {
     },
     {
       icon: <Share2 className="h-6 w-6" />,
-      title: "Smart Sharing",
+      title: "Writing Assistant",
       description: "Share content with AI-generated highlights, annotations, and custom summaries."
     }
   ];
